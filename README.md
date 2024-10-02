@@ -1,1 +1,1 @@
-phpinfo();
+<p>Hi all</p>
